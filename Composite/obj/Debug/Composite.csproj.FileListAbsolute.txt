@@ -1,0 +1,7 @@
+C:\Tareas\Design Patterns\CompositePractice-master\Composite\bin\Debug\Composite.exe.config
+C:\Tareas\Design Patterns\CompositePractice-master\Composite\bin\Debug\Composite.exe
+C:\Tareas\Design Patterns\CompositePractice-master\Composite\bin\Debug\Composite.pdb
+C:\Tareas\Design Patterns\CompositePractice-master\Composite\obj\Debug\Composite.csprojAssemblyReference.cache
+C:\Tareas\Design Patterns\CompositePractice-master\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Tareas\Design Patterns\CompositePractice-master\Composite\obj\Debug\Composite.exe
+C:\Tareas\Design Patterns\CompositePractice-master\Composite\obj\Debug\Composite.pdb
